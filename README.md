@@ -10,16 +10,16 @@ I care about tools that are easy to run, easy to debug, and solid enough to ship
 | --- | --- |
 | [ProofDrift](https://github.com/WahuVN/proofdrift) | Rust developer tooling for provenance, policy, runtime evidence, patch impact, and test proof |
 | [Viet-Hoa-WuWa](https://github.com/WahuVN/Viet-Hoa-WuWa) | C#/.NET/WPF localization tooling for Vietnamese Wuthering Waves workflows |
+| [PowerMon Desktop](https://github.com/WahuVN/PowerMon-Desktop) | Python/Windows hardware telemetry, energy logging, tested power-policy control, and safe rollback |
+| [GIF & Video Toolkit](https://github.com/WahuVN/GIF-Video-Toolkit) | Python media tooling with GUI/CLI workflows, GIF optimization, FFmpeg video cutting, and Windows CI |
 | [WAHU Kids Learn](https://github.com/WahuVN/WAHU-Kids-Learn) | Offline-first C# desktop learning app for low-spec Windows with WinForms and SQLite |
-| [ResonaMod](https://github.com/WahuVN/ResonaMod) | Python desktop mod manager with packaging, update, repair, and validation workflows |
 | [WAHU MCP MAX — Win7 Portable](https://github.com/WahuVN/WAHU-MCP-MAX-WIN7-PORTABLE) | Portable JavaScript/Go tooling focused on Windows compatibility, recovery, and release engineering |
-| [Wao Echo](https://github.com/WahuVN/wao-echo) | TypeScript/React theorycrafting app with simulation, optimization, and browser-side OCR |
 
 ## Focus
 
 **Desktop & Windows** · **Automation** · **Developer tools** · **Reliability & recovery** · **Packaging & releases** · **Game tooling & localization**
 
-**Stack:** Rust, C#, Python, TypeScript, JavaScript, Go · WPF, WinForms, React, PyWebView/WebView2 · SQLite, Vite, PyInstaller, GitHub Actions
+**Stack:** Rust, C#, Python, TypeScript, JavaScript, Go · WPF, WinForms, React, Tkinter · SQLite, Vite, PyInstaller, GitHub Actions
 
 Open to remote and contract software work.
 
