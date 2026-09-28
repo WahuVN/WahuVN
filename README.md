@@ -1,26 +1,28 @@
 # The Anh — WahuVN
 
-Software engineer in Vietnam building practical **desktop apps, automation, developer tooling, and reliability-focused local software**.
+**Software Engineer | Desktop Apps, Automation & Developer Tooling**
 
-I care about tools that are easy to run, easy to debug, and solid enough to ship.
+Based in Vietnam. I build practical software for **Windows desktop, automation, developer tooling, and local-first workflows**, with an emphasis on reliability, debuggability, recovery, and maintainable delivery.
+
+I work across **Rust, C#, Python, TypeScript/React, JavaScript, and Go**.
 
 ## Selected work
 
-| Project | What it shows |
+| Project | Engineering signal |
 | --- | --- |
 | [ProofDrift](https://github.com/WahuVN/proofdrift) | Rust developer tooling for provenance, policy, runtime evidence, patch impact, and test proof |
+| [PowerMon Desktop](https://github.com/WahuVN/PowerMon-Desktop) | Python/Windows power and hardware telemetry with energy logging, sensor validation, and crash-safe power-plan rollback |
+| [Wao Echo](https://github.com/WahuVN/wao-echo) | TypeScript/React theorycrafting app with combat simulation, optimization, and browser-side OCR |
 | [Viet-Hoa-WuWa](https://github.com/WahuVN/Viet-Hoa-WuWa) | C#/.NET/WPF localization tooling for Vietnamese Wuthering Waves workflows |
-| [PowerMon Desktop](https://github.com/WahuVN/PowerMon-Desktop) | Python/Windows hardware telemetry, energy logging, tested power-policy control, and safe rollback |
-| [GIF & Video Toolkit](https://github.com/WahuVN/GIF-Video-Toolkit) | Python media tooling with GUI/CLI workflows, GIF optimization, FFmpeg video cutting, and Windows CI |
-| [WAHU Kids Learn](https://github.com/WahuVN/WAHU-Kids-Learn) | Offline-first C# desktop learning app for low-spec Windows with WinForms and SQLite |
-| [WAHU MCP MAX — Win7 Portable](https://github.com/WahuVN/WAHU-MCP-MAX-WIN7-PORTABLE) | Portable JavaScript/Go tooling focused on Windows compatibility, recovery, and release engineering |
+| [ResonaMod](https://github.com/WahuVN/ResonaMod) | Python desktop mod manager with PyWebView/WebView2, repair automation, packaging, and update workflows |
+| [WAHU Kids Learn](https://github.com/WahuVN/WAHU-Kids-Learn) | Offline-first C# learning app for low-spec Windows using WinForms, SQLite, and .NET Framework 4.8 |
 
-## Focus
+## Engineering focus
 
 **Desktop & Windows** · **Automation** · **Developer tools** · **Reliability & recovery** · **Packaging & releases** · **Game tooling & localization**
 
-**Stack:** Rust, C#, Python, TypeScript, JavaScript, Go · WPF, WinForms, React, Tkinter · SQLite, Vite, PyInstaller, GitHub Actions
+**Stack:** Rust, C#, Python, TypeScript, JavaScript, Go · WPF, WinForms, PyWebView/WebView2, React · SQLite, Vite, PyInstaller, GitHub Actions
 
-Open to remote and contract software work.
+Open to remote and contract software work where hands-on implementation, debugging, automation, and shipping usable tools matter.
 
 **Contact:** [GitHub @WahuVN](https://github.com/WahuVN)
